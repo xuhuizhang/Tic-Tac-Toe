@@ -4,4 +4,4 @@
 
 井字棋游戏。
 
-![Tic-Tac-Toe](resource\pics.png)
+![Tic-Tac-Toe](resource/pics.png)
